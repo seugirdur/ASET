@@ -1,0 +1,287 @@
+.general {
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  height: 120px;
+  display: flex;
+  align-items: flex-end;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e0e0e0;
+  color: grey;
+  font-family: "Maven Pro", sans-serif;
+  font-size: 16px;
+  background-color: white;
+  z-index: 5;
+}
+
+.forrow {
+  
+}
+
+.af {
+  float: left;
+  padding: 40px;
+}
+
+.menus {
+  color: grey !important;
+}
+
+.div-of-header {
+  float: left;
+  padding-bottom: 40px;
+}
+
+.headering {
+  float: left;
+  margin-left: 80px;
+}
+
+.lmaologo {
+  height:100px;
+}
+
+
+
+.buttons {
+  background-color: #44bc2c;
+  font-weight: bold;
+  color: white;
+  border-radius: 30px;
+  float: left;
+  padding: 12px;
+  width: 200px;
+  text-align: center;
+  margin: 30px;
+  position: relative;
+  left: 180px;
+}
+
+.div-slide {
+  height: 120px;
+}
+
+.slider {
+}
+
+.slides {
+}
+
+.text-at-slider {
+}
+
+.caption {
+}
+
+.left-align {
+}
+
+.right-align {
+}
+
+.light {
+}
+
+.grey-text {
+}
+
+.text-lighten-3 {
+}
+
+.center-align {
+}
+
+.below-slider {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  background-size: cover;
+}
+
+.two-square-content {
+  width: 80%;
+  margin-top: 70px;
+  border-radius: 15px;
+}
+
+.title-section {
+  color: rgb(7, 0, 0);
+  position: absolute;
+  left: 270px;
+}
+
+.h4-title {
+  font-family: "Maven Pro", sans-serif, cursive;
+  font-weight: bolder;
+}
+
+.paragraph {
+  margin-bottom: 7px;
+  font-family: "Sulphur Point", sans-serif;
+}
+
+.image-with-text {
+  display: flex;
+  justify-content: center;
+}
+
+.text-space {
+  width: 44%;
+  height: 500px;
+  margin-top: 100px;
+  background-color: #f4f4f4;
+  padding: 50px;
+}
+
+.text-made {
+    font-family: 'Sulphur Point', sans-serif; margin-bottom: 30px; font-weight: bold; line-height: 28px; font-size: 20px;
+}
+
+.image-put {
+    width: 35%; height: 500px;margin-top: 100px; background-color: white; padding: 20px;
+}
+
+.no-one-knows {
+  width: 100%; display: flex; justify-content: flex-start; margin-top: 30px;
+}
+
+@media only screen and (max-width:700px) {
+  .af {
+  float: left;
+  padding: 10px;
+  background-color:blue;
+}
+
+.div-slide {
+  height: 120px;
+  width:100%;
+  background-color:brown;
+}
+
+.menus {
+  color: grey !important;
+  background-color:green;
+  font-size:10px;
+  margin-bottom:25px;
+}
+
+.div-of-header {
+  float: left;
+  padding-bottom: 40px;
+  background-color:pink;
+
+}
+
+.headering {
+background-color:red;
+margin-left:1px;
+height:50%;
+justify-content:center;
+align-items:center;
+}
+
+.lmaologo {
+  height:20px;
+  align-items:center;
+  justify-content:center;
+  background-color:yellow;
+
+}
+
+.general {
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e0e0e0;
+  color: grey;
+  font-family: "Maven Pro", sans-serif;
+  font-size: 16px;
+  background-color: white;
+  z-index: 5;
+  background-color:purple;
+
+}
+
+.viewofbuttons {
+  background-color:orange;
+  width:20%;
+  height:100%;
+  padding:4px;
+  justify-content:center;
+  align-items:center;
+}
+
+.buttons {
+  background-color: #44bc2c;
+  font-weight: bold;
+  color: white;
+  border-radius: 3px;
+  width: 60px;
+  height:100%;
+  margin:1px;
+  left:0px;
+  text-align: center;
+  font-size:8px;
+  align-items:center;
+  justify-content:center;
+}
+
+.title-section {
+  color: rgb(7, 0, 0);
+  position: absolute;
+  left: 0px;
+}
+
+.h4-title {
+  font-family: "Maven Pro", sans-serif, cursive;
+  font-weight: bolder;
+}
+
+.slider {
+  width:100%;
+}
+
+
+.below-slider {
+background-color:cyan;
+width:100%;
+height:100%;
+flex-direction:row;
+}
+
+.two-square-content {
+  width:100%;
+height:100%;
+flex-direction:column;
+background: yellow;
+}
+
+.image-with-text {
+  width:100%;
+  height:100%;
+  flex-direction:column;
+  background: brown;
+}
+
+.text-space {
+  width:100%;
+  height:100%;
+  float:left;
+
+}
+
+.image-put {
+  width:100%;
+  height:100%;
+  float:bottom;
+}
+
+}

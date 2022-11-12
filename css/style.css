@@ -3,7 +3,7 @@
 /* HEADER */
 
 .cls {clear: both;}
-nav {height: 80px !important;}
+.nav {height: 80px !important;}
 .icone {font-size: 40px !important;}
 .links{margin-top:10px;}
 .content{margin-left: 500px; bottom: 50px;}
@@ -257,3 +257,6 @@ a{height: 100%;}
 .row {
   margin-bottom: 0;
 }
+
+
+
