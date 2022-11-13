@@ -58,6 +58,13 @@
   left: 180px;
 }
 
+.buttons:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24), 0 5px 12px 0 rgba(0,0,0,0.19);
+
+}
+
 .div-slide {
   height: 120px;
 }
